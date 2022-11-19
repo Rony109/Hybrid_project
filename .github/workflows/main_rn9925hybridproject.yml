@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Rn9925HybridProject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E7BC5737E5444A88F805DD718CFC012 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B434A7CFAD97408FAF92D2D5AA6F7E38 }}
